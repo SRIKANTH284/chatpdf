@@ -83,7 +83,7 @@ def main():
     st.text_input("Message", key="user_input", disabled=not is_openai_api_key_set(), on_change=process_input)
 
     st.divider()
-    st.markdown("Source code: [Github](https://github.com/viniciusarruda/chatpdf)")
+    st.markdown("Source code: [Github](https://github.com/SRIKANTH284/chatpdf/blob/master/app.py)")
 
 
 if __name__ == "__main__":
