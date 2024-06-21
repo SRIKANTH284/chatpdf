@@ -1,6 +1,7 @@
 streamlit
 streamlit_chat
-langchain
+# langchain
+langchain-community==0.0.28
 openai
 faiss-cpu
 pypdf
